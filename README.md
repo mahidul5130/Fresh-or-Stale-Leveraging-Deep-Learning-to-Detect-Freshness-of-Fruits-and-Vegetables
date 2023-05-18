@@ -1,5 +1,3 @@
-Certainly! Here's an example of how you can include the publication status in the GitHub readme format:
-
 # Fresh or Stale: Deep Learning for Fruit and Vegetable Freshness Detection
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
