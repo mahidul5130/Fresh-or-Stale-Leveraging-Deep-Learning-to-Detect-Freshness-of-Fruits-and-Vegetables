@@ -20,6 +20,7 @@ Please note that the paper will be available in the IEEE Explore digital library
 
 ## License
 
+...
 <!-- This project is licensed under the [MIT License](LICENSE). -->
 
 ## Contact Information
