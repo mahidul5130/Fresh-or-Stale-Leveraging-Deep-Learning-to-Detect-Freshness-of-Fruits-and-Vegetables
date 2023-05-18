@@ -25,6 +25,6 @@ Please note that the paper will be available in the IEEE Explore digital library
 
 ## Contact Information
 
-For any questions or inquiries, please contact [Your Name](mailto:yourname@example.com).
+For any questions or inquiries, please contact [Your Name](mailto:md.mahidul.haque@g.bracu.ac.bd).
 
 Feel free to customize the sections and add more details as needed for your specific project.
