@@ -27,4 +27,3 @@ Please note that the paper will be available in the IEEE Explore digital library
 
 For any questions or inquiries, please contact [Md. Mahidul Haque](mailto:md.mahidul.haque@g.bracu.ac.bd) or [Rehanul Ahmed](mailto:rehanul.ahmed).
 
-Feel free to customize the sections and add more details as needed for your specific project.
